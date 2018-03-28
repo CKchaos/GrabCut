@@ -4,19 +4,19 @@ This program is a course project during my second year in university, so some fu
 
 ##### Requirements
 
-​		python 2.7
+​	python 2.7
 
-​		matplotlib
+​	matplotlib
 
-​		OpenCV
+​	OpenCV
 
-​		scikit-learn
+​	scikit-learn
 
-​		PIL
+​	PIL
 
-​		wxPython (GUI package)
+​	wxPython (GUI package)
 
-​		igraph
+​	igraph
 
 ​	**Note**: To install igraph package, run **pip install python-igraph**. Do **not** run **pip install igraph**
 
