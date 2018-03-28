@@ -34,6 +34,6 @@ This program is a course project during my second year in university, so some fu
 
 ##### Example
 
-![3](/home/papa/Documents/Trash/GrabCut/1.gif)
+![1](1.gif)
 
-![1](2.gif)
+![2](2.gif)
