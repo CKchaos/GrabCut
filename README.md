@@ -6,15 +6,15 @@ This program is a course project during my second year in university, so some fu
 
 ​	python 2.7
 
-​	matplotlib
+​	matplotlib 2.0.2
 
-​	OpenCV
+​	OpenCV 3.2.0
 
-​	scikit-learn
+​	scikit-learn 0.18.1
 
 ​	PIL
 
-​	wxPython (GUI package)
+​	wxPython 3.0.2.0 (GUI package)
 
 ​	igraph
 
@@ -25,11 +25,11 @@ This program is a course project during my second year in university, so some fu
 ```
 #Organization
 ./
-	|--grab.py - call the GrabCut function in OpenCV.
-	|--grabcut.py - use igraph and scikit-learn to implement GrabCut function.(Not a good implementation)
-	|--main.py - build the GUI architecture by wxPython.
+    |--grab.py - call the GrabCut function in OpenCV.
+    |--grabcut.py - use igraph and scikit-learn to implement GrabCut function.(Not a good implementation)
+    |--main.py - build the GUI architecture by wxPython.
 #Run
-	python main.py
+    python main.py
 ```
 
 ##### Example
