@@ -1,6 +1,6 @@
 A GUI program to display the result from a image segmentation algorithm named  [GrabCut](http://pages.cs.wisc.edu/~dyer/cs534-fall11/papers/grabcut-rother.pdf).
 
-This program is a course project during my second year in university, so some functions in outdated packages may be not supported by the newest packages.
+This program is a course project during my second year in university, so some functions in outdated libraries may be not supported by the newest libraries.
 
 ##### Requirements
 
@@ -14,11 +14,11 @@ This program is a course project during my second year in university, so some fu
 
 ​	PIL
 
-​	wxPython 3.0.2.0 (GUI package)
+​	wxPython 3.0.2.0 (GUI library )
 
 ​	igraph
 
-​	**Note**: To install igraph package, run **pip install python-igraph**. Do **not** run **pip install igraph**
+​	**Note**: To install igraph library , run **pip install python-igraph**. Do **not** run **pip install igraph**
 
 ##### Usage
 
